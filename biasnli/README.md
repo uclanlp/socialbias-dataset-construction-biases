@@ -12,7 +12,7 @@ All models used for evaluation on the BiasNLI task are publicly available.
 We have provided sample scripts to evaluate these public models on our alternate dataset constructions.
 
 ## Data
-All preprocessed data (corresponding to the various alternate constructions) is available in the `data` directory.
+All preprocessed data (corresponding to the various alternate constructions) is available in csv format (zipped) in the `data` directory.
 
 ## Alternate Constructions
 
